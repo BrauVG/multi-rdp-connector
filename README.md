@@ -28,4 +28,4 @@ Conectando a servidor-ejemplo...
 2. Edita las variables `username` y `password` dentro del script con tus credenciales.
 3. Ejecuta el script con Python:
    ```bash
-   python multi_rdp_connector.py
+   Multiplerdp.py
